@@ -8,8 +8,8 @@
        * GitHub username 3: oaguilar5
        * GitHub username 4: tirefrier
        * GitHub username 5: eshita97
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+   * When did you complete this exercise? 3/1/2018 @ 6:57PM
+   * How long did it take your team to complete this exercise? 1.5 hours
 
 ## Table of Contents
 
