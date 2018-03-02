@@ -5,9 +5,9 @@
    * What are the GitHub usernames of your team members?
        * GitHub username 1: sbarabas
        * GitHub username 2: jahn36
-       * GitHub username 3:
-       * GitHub username 4:
-       * GitHub username 5:
+       * GitHub username 3: oaguilar5
+       * GitHub username 4: tirefrier
+       * GitHub username 5: eshita97
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
 
